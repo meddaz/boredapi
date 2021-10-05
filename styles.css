@@ -1,0 +1,17 @@
+body {
+    background-color: #2A0D5D;
+    color: yellow;
+    max-width: 100%;
+    height: auto;
+  
+}
+ 
+header {
+    font-weight: bold;
+    font-family: sans-seri
+
+}
+#display {
+    font-size: 20px;
+    font-family: monospace;
+}
